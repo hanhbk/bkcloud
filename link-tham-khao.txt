@@ -9,9 +9,13 @@ http://docs.ceph.com/docs/master/rados/configuration/network-config-ref/
 http://docs.ceph.com/docs/master/start/hardware-recommendations/?highlight=hardware
 https://swamireddy.wordpress.com/2016/02/15/ceph-how-to-increase-osd-journal-size/
 https://swamireddy.wordpress.com/2016/02/19/ceph-how-to-add-the-ssd-journal/
+https://www.stratoscale.com/blog/storage/deploying-ceph-challenges-solutions/
+https://www.stratoscale.com/blog/storage/integrating-ceph-storage-openstack-step-step-guide/
+
 
 
 OpenStack
+https://www.stratoscale.com/blog/openstack/deploying-openstack-ask-choose-infographic/
 https://patrickslinuxblog.wordpress.com/2013/08/22/setting-up-additional-swap-space-for-oracle-on-openstack-vms/
 http://cloudn1n3.blogspot.com/2014/11/openstack-series-part-13-docker-in.html
 
