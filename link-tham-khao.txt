@@ -1,0 +1,16 @@
+CEPH
+
+https://www.jamescoyle.net/how-to/1244-create-a-3-node-ceph-storage-cluster
+https://www.howtoforge.com/tutorial/how-to-build-a-ceph-cluster-on-centos-7/
+https://www.howtoforge.com/tutorial/using-ceph-as-block-device-on-centos-7/
+https://www.youtube.com/watch?v=IaZtWQmDjks
+https://redhatstorage.redhat.com/2015/02/12/10-commands-every-ceph-administrator-should-know/
+http://docs.ceph.com/docs/master/rados/configuration/network-config-ref/
+http://docs.ceph.com/docs/master/start/hardware-recommendations/?highlight=hardware
+
+
+OpenStack
+https://patrickslinuxblog.wordpress.com/2013/08/22/setting-up-additional-swap-space-for-oracle-on-openstack-vms/
+
+
+
