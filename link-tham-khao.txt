@@ -13,6 +13,8 @@ https://www.stratoscale.com/blog/storage/deploying-ceph-challenges-solutions/
 https://www.stratoscale.com/blog/storage/integrating-ceph-storage-openstack-step-step-guide/
 https://www.supermicro.com/solutions/storage_ceph.cfm
 https://www.jamescoyle.net/knowledge/2264-where-to-run-ceph-processes-for-high-availability
+https://tracker.ceph.com/projects/ceph/wiki/Benchmark_Ceph_Cluster_Performance
+
 
 
 OpenStack
@@ -21,3 +23,4 @@ https://patrickslinuxblog.wordpress.com/2013/08/22/setting-up-additional-swap-sp
 http://cloudn1n3.blogspot.com/2014/11/openstack-series-part-13-docker-in.html
 
 
+https://cloudinit.readthedocs.io/en/latest/index.html
