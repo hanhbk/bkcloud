@@ -11,7 +11,8 @@ https://swamireddy.wordpress.com/2016/02/15/ceph-how-to-increase-osd-journal-siz
 https://swamireddy.wordpress.com/2016/02/19/ceph-how-to-add-the-ssd-journal/
 https://www.stratoscale.com/blog/storage/deploying-ceph-challenges-solutions/
 https://www.stratoscale.com/blog/storage/integrating-ceph-storage-openstack-step-step-guide/
-
+https://www.supermicro.com/solutions/storage_ceph.cfm
+https://www.jamescoyle.net/knowledge/2264-where-to-run-ceph-processes-for-high-availability
 
 
 OpenStack
